@@ -1,0 +1,9 @@
+{
+    "user": "John Hugget",
+    "action": "Log on",
+    "location": {
+        "address": "Wetherby, United Kingdom",
+        "machine": "X031415"
+    },
+    "localTime": "2014-03-21 09:32"
+}
