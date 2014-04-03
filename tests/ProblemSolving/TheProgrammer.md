@@ -4,33 +4,8 @@ Because our software usually involves processing extremely large amounts of data
 
 A piece of information that is vital to the customer is *where* users are logging in, and *at what time* users are logging in.
 
-<table>
-  <tr>
-    <td>Alert 1</td>
-    <td>Alert 2</td>
-  </tr>
-  <tr>
-    <td>`{
-    "user": "John Hugget",
-    "action": "Log on",
-    "location": {
-        "address": "Wetherby, United Kingdom",
-        "machine": "X031415"
-    },
-    "localTime": "2014-03-21 09:32"
-}`</td>
-    <td>`{
-    "user": "John Hugget",
-    "action": "Log on",
-    "location": {
-        "address": "London, United Kingdom",
-        "machine": "X042515"
-    },
-    "localTime": "2014-03-21 10:01"
-}`</td>
-  </tr>
-</table>
-
+[Alert 1 Example}(TheProgrammer/alert1.json)
+[Alert 2 Example}(TheProgrammer/alert2.json)
 
 If you look in Alert 1 above, you can see that it contains the name of the user, the action performed (in this case logging on) at 9:32AM in Wetherby on machine X031415. Imagine now that, you saw alert 2 a little later on, you know that from Wetherby, it is not possible to travel to London within 29 minutes, so as a human you can realise that this user, has either shared his login details, or someone else has gained illegitimate access to his account.
 
