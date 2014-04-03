@@ -10,7 +10,7 @@ A piece of information that is vital to the customer is *where* users are loggin
     <td>Alert 2</td>
   </tr>
   <tr>
-    <td>`{
+    <td><pre>{
     "user": "John Hugget",
     "action": "Log on",
     "location": {
@@ -18,8 +18,8 @@ A piece of information that is vital to the customer is *where* users are loggin
         "machine": "X031415"
     },
     "localTime": "2014-03-21 09:32"
-}`</td>
-    <td>`{
+}</pre></td>
+    <td><pre>{
     "user": "John Hugget",
     "action": "Log on",
     "location": {
@@ -27,7 +27,7 @@ A piece of information that is vital to the customer is *where* users are loggin
         "machine": "X042515"
     },
     "localTime": "2014-03-21 10:01"
-}`</td>
+}</pre></td>
   </tr>
 </table>
 
