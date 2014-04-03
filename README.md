@@ -1,7 +1,7 @@
 RandomStorm Tech Test
 =====================
 
-If you are at this page, then it's likely that a recruiter has forwarded you a link to our technical test. Well done, that means you've passed the first stage, and your CV has been accepted by us. Well done, we think your skills are relevant to our business. That's no small achievement, our process of filtering CV's is riggerous; you have done well to get here.
+If you are at this page, then it's likely that a recruiter has forwarded you a link to our technical test. That means you've passed the first stage, and your CV has been accepted by us. Our process of filtering CV's is riggerous - so you can pat yourself on the back for getting this far :)
 
 The next step is a technical test. As you read through the test, you will read this many times, but to start you off easily: We don't want you to write any code.
 
