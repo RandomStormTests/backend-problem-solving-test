@@ -1,4 +1,4 @@
-#RandomStorm Technical Test
+I#RandomStorm Technical Test
 
 ##Problem Solving
 
@@ -21,7 +21,7 @@ A section of text that describes how you would solve the problem. We want you to
 
 We’re not looking for you to write us any code for this. As we explained previously, although we **_do_** care how you write code, at the level of engineers we employ, you are able to code to a good standard, and what you don’t know, we will be happy to teach you.
 
-The key thing for us is that you enjoy solving these problems. Although this isn’t all that we do, problems like this are the type our team solves every day. We want you to show us how good you are at looking at a problem, breaking it into it’s initial components, and then solving each of those.
+The key thing for us is that you enjoy solving these problems. Although this isn’t all that we do, problems like this are the type our team solves every day. We want you to show us how good you are at looking at a problem, breaking it into its initial components, and then solving each of those.
 
 You can spend as much or as little time as you want on this. We have had candidates spend entire weekends on this, or just an hour or so. We suggest you put in enough time for you to be happy with the solution that you present back to us.
 
